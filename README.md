@@ -62,7 +62,7 @@ Author: Sujith (customizable)
 | **AtCoder**    | Regular practice             |
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/codesujith?theme=dark&font=Karma&ext=contest" />
 </p>
 
 ---
