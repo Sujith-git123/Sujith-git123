@@ -1,7 +1,4 @@
-<!-- =====================
-STUNNING GITHUB PROFILE README
-Author: Sujith (customizable)
-===================== -->
+
 
 <h1 align="center">Hey 👋, I'm Sujith</h1>
 
@@ -128,4 +125,3 @@ Author: Sujith (customizable)
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF2D2D&height=120&section=footer" />
 </p>
 
-<!-- END -->
