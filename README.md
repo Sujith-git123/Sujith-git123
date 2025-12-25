@@ -22,7 +22,7 @@ Author: Sujith (customizable)
 
 ## 🔥 About Me
 
-* 🎓 First-year CS student
+* 🎓 II-year CS student
 * 💻 Strong in **C++ | Java | Python**
 * 🧠 Solved **670+ LeetCode problems** 
 * 🏆 Target: **Candidate Master / Master on Codeforces by 2026-27**
