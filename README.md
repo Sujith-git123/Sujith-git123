@@ -21,7 +21,7 @@
 
 * 🎓 II-year CS student
 * 💻 Strong in **C++ | Java | Python**
-* 🧠 Solved **670+ LeetCode problems** 
+* 🧠 Solved **700+ LeetCode problems** 
 * 🏆 Target: **Candidate Master / Master on Codeforces by 2026-27**
 * 🏗️ Preparing for **FAANG**
 * ⏳ Daily focus: **DSA, CP, System Design, Deep Theory**
