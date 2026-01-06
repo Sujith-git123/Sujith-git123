@@ -54,7 +54,7 @@
 
 | Platform       | Stats                        |
 | -------------- | ---------------------------- |
-| **LeetCode**   | 670+ solved · Strong in Hard |
+| **LeetCode**   | 700+ solved · Strong in Hard |
 | **Codeforces** | Grinding for CM              |
 | **AtCoder**    | Regular practice             |
 
