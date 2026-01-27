@@ -50,18 +50,6 @@
 
 ---
 
-## 📊 Competitive Programming
-
-| Platform       | Stats                        |
-| -------------- | ---------------------------- |
-| **LeetCode**   | 700+ solved · Strong in Hard |
-| **Codeforces** | Grinding for CM              |
-| **AtCoder**    | Regular practice             |
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/codesujith?theme=dark&font=Karma&ext=contest" />
-</p>
-
 ---
 
 ## 📈 GitHub Stats (Live & Animated)
