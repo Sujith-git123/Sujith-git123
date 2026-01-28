@@ -93,9 +93,6 @@
   <a href="https://www.linkedin.com/in/sujith-t-7a187a323/">
     <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/codesujith/">
-    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" />
-  </a>
   <a href="mailto:sujith8102006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
