@@ -68,16 +68,6 @@
 
 ---
 
-## 🛠️ Current Focus
-
-```text
-✔ Mastering DP patterns
-✔ Candidate Master on Codeforces
-✔ FAANG interview preparation
-✔ Building strong problem-solving intuition
-```
-
-
 ## 🌐 Connect With Me
 
 <p align="center">
